@@ -41,12 +41,10 @@ Now, switch to the `ui` directory from the project root in a new terminal tab/wi
 pnpm i
 ```
 
-This should be enough to install all the requirements. Now we can run it with 
+This should be enough to install all the requirements. Now we can run it with
 
 ```bash
 pnpm dev
 ```
 
-That should do the trick for launching the UI on your local browser at `http://localhost:3000`. 
-
-
+That should do the trick for launching the UI on your local browser at `http://localhost:3000`.
