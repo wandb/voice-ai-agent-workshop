@@ -1,0 +1,10 @@
+[project]
+name = "hydpy-wab"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.116.2",
+    "google-adk>=1.14.1",
+    "opentelemetry-exporter-otlp-proto-http>=1.37.0",
+    "python-dotenv>=1.1.1",
+]
